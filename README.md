@@ -1,4 +1,4 @@
-Skills & Tools
+Tools & Skills 
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40"/>
@@ -8,6 +8,7 @@ Skills & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" alt="Metasploit" width="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/burpsuite.svg" alt="Burp Suite" width="40"/>
 </div>
-
 
