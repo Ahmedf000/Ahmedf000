@@ -6,7 +6,6 @@ Tools & Skills
   <img src="https://cdn.jsdelivr.net/gh/Ahmedf000/Ahmedf000@main/nmap.png" alt="Nmap" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/Ahmedf000/Ahmedf000@main/wireshark.png" alt="Wireshark" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/powershell/powershell-original.svg" alt="PS7" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/metasploit.svg" alt="Metasploit" width="40" style="filter: invert(33%) sepia(89%) saturate(3000%) hue-rotate(198deg) brightness(95%) contrast(90%);"/>
